@@ -338,7 +338,7 @@ class VentanaMensaje:
         self.win.configure(bg='#FFFFFF')
 
         # Centrar en pantalla con fallback seguro
-        w, h = 760, 640
+        w, h = 960, 680
         self.win.update_idletasks()
         sw = self.win.winfo_screenwidth()  or 1920
         sh = self.win.winfo_screenheight() or 1080
@@ -414,7 +414,7 @@ class VentanaMensaje:
         canvas.bind_all('<MouseWheel>', _scroll_mouse)
 
         # Título del mensaje
-        tk.Label(self.frame_scroll, text=titulo, wraplength=710,
+        tk.Label(self.frame_scroll, text=titulo, wraplength=880,
                  bg='#FFFFFF', fg='#1A1A2E',
                  font=('Segoe UI', 13, 'bold'), justify='left', anchor='w'
                  ).pack(fill='x', padx=18, pady=(16, 4))
@@ -676,7 +676,7 @@ class VentanaHistorial:
         self.win.attributes('-topmost', True)
         self.win.configure(bg='#FFFFFF')
 
-        w, h = 580, 540
+        w, h = 720, 580
         self.win.update_idletasks()
         sw = self.win.winfo_screenwidth() or 1920
         sh = self.win.winfo_screenheight() or 1080
@@ -822,7 +822,7 @@ class VentanaHistorial:
             tk.Label(info,
                      text=m.get('cuerpo', '')[:80] + ('...' if len(m.get('cuerpo', '')) > 80 else ''),
                      bg=card_bg, fg='#555', font=('Segoe UI', 9),
-                     anchor='w', wraplength=420, justify='left').pack(fill='x')
+                     anchor='w', wraplength=540, justify='left').pack(fill='x')
 
             badges = tk.Frame(info, bg=card_bg)
             badges.pack(anchor='w', pady=(3, 0))
@@ -847,16 +847,16 @@ class VentanaHistorial:
                 with self.cola_lock:
                     self.cola_mensajes.append(datos)
 
-            # Botón ojo individual — columna derecha centrada
-            col_der = tk.Frame(card, bg=card_bg, width=52)
-            col_der.pack(side='right', fill='y')
+            # Botón ojo individual — columna derecha
+            col_der = tk.Frame(card, bg=card_bg, width=90)
+            col_der.pack(side='right', fill='y', padx=(0, 8))
             col_der.pack_propagate(False)
 
             btn_ver = tk.Button(
-                col_der, text='👁',
+                col_der, text='👁  Ver',
                 bg=color, fg='white',
-                font=('Segoe UI', 11), relief='flat', cursor='hand2',
-                width=3, pady=4,
+                font=('Segoe UI', 10, 'bold'), relief='flat', cursor='hand2',
+                padx=10, pady=6,
                 command=lambda d=m: _abrir(d),
             )
             btn_ver.place(relx=0.5, rely=0.5, anchor='center')

@@ -1,0 +1,7 @@
+websocket-client
+pystray
+Pillow
+PyMuPDF
+pywin32
+requests
+pyinstaller

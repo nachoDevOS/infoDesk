@@ -1,0 +1,130 @@
+2026-06-05 16:28:34 [INFO] infoDesk iniciado | PC: DESKTOP-QIK04BR | WS: ws://:8080/app/iKW9AMGcfqiXRIOp5S5jkICZZEOTTwcDEGSq1OX9XqByciFK1JODFBICAQpjocbr | v1.0.0
+2026-06-05 16:28:34 [INFO] Registrado en inicio automático de Windows
+2026-06-05 16:29:00 [INFO] Configuración guardada: host=notificaciones.beni.gob.bo, api=443, reverb=8081, pc=PC
+2026-06-05 16:29:00 [INFO] Conectando a ws://notificaciones.beni.gob.bo:8081/app/iKW9AMGcfqiXRIOp5S5jkICZZEOTTwcDEGSq1OX9XqByciFK1JODFBICAQpjocbr...
+2026-06-05 16:29:01 [INFO] Websocket connected
+2026-06-05 16:29:01 [INFO] WebSocket conectado
+2026-06-05 16:29:01 [INFO] Suscrito al canal 'mensajes'
+2026-06-05 16:29:02 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:29:02 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:29:14 [INFO] Mensaje recibido: fsadf
+2026-06-05 16:29:14 [INFO] Ventana creada: fsadf
+2026-06-05 16:29:16 [INFO] Confirmación enviada: mensaje #11 — recibido
+2026-06-05 16:29:34 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:30:05 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:30:37 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:31:09 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:31:41 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:32:13 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:32:45 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:33:16 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:33:49 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:34:20 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:34:51 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:35:22 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:35:53 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:36:25 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:36:56 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:37:28 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:37:59 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:38:30 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:39:01 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:39:31 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:40:03 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:40:34 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:41:05 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:41:36 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:42:07 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:42:16 [INFO] Mensaje recibido: Milton
+2026-06-05 16:42:16 [INFO] Ventana creada: Milton
+2026-06-05 16:42:18 [INFO] Confirmación enviada: mensaje #13 — recibido
+2026-06-05 16:42:39 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:43:09 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:43:40 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:44:12 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:44:43 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:44:48 [ERROR] WebSocket error: Connection to remote host was lost.
+2026-06-05 16:44:48 [ERROR] Connection to remote host was lost. - goodbye
+2026-06-05 16:44:48 [INFO] WebSocket desconectado (código None)
+2026-06-05 16:44:48 [INFO] Reintentando conexión en 10 segundos...
+2026-06-05 16:44:58 [INFO] Conectando a ws://notificaciones.beni.gob.bo:8081/app/iKW9AMGcfqiXRIOp5S5jkICZZEOTTwcDEGSq1OX9XqByciFK1JODFBICAQpjocbr...
+2026-06-05 16:44:58 [INFO] Websocket connected
+2026-06-05 16:44:58 [INFO] WebSocket conectado
+2026-06-05 16:44:58 [INFO] Suscrito al canal 'mensajes'
+2026-06-05 16:44:59 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:45:00 [INFO] Mensaje recibido: Milton
+2026-06-05 16:45:00 [INFO] Mensaje recibido: Milton
+2026-06-05 16:45:01 [INFO] Ventana creada: Milton
+2026-06-05 16:45:02 [WARNING] Error descargando archivo: 404 Client Error: Not Found for url: https://notificaciones.beni.gob.bo/uploads/mensa_6a232ff19245a7.45410302.pdf
+2026-06-05 16:45:02 [INFO] Confirmación enviada: mensaje #9 — recibido
+2026-06-05 16:45:06 [INFO] Ventana creada: Milton
+2026-06-05 16:45:08 [WARNING] Error descargando archivo: 404 Client Error: Not Found for url: https://notificaciones.beni.gob.bo/uploads/mensa_6a2331ab0b1ba6.68128993.pdf
+2026-06-05 16:45:08 [INFO] Confirmación enviada: mensaje #12 — recibido
+2026-06-05 16:45:13 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:45:45 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:46:00 [INFO] Mensaje recibido: Milton
+2026-06-05 16:46:00 [INFO] Ventana creada: Milton
+2026-06-05 16:46:02 [INFO] Confirmación enviada: mensaje #14 — recibido
+2026-06-05 16:46:15 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:46:46 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:47:17 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:47:48 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:48:19 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:48:50 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:49:20 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:49:53 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:50:24 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:50:55 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:51:26 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:51:57 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:52:28 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:53:00 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:53:31 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:54:03 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:54:34 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:55:05 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:55:36 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:56:07 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:56:38 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:57:09 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:57:40 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:58:12 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:58:43 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:59:14 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 16:59:45 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 17:00:16 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 17:00:48 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 17:01:19 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 17:51:45 [ERROR] WebSocket error: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+2026-06-05 17:51:45 [ERROR] [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto - goodbye
+2026-06-05 17:51:45 [INFO] WebSocket desconectado (código None)
+2026-06-05 17:51:45 [INFO] Reintentando conexión en 10 segundos...
+2026-06-05 17:51:45 [WARNING] Error al registrar PC: HTTPSConnectionPool(host='notificaciones.beni.gob.bo', port=443): Max retries exceeded with url: /api/registro (Caused by NameResolutionError("HTTPSConnection(host='notificaciones.beni.gob.bo', port=443): Failed to resolve 'notificaciones.beni.gob.bo' ([Errno 11001] getaddrinfo failed)"))
+2026-06-05 18:04:32 [INFO] Conectando a ws://notificaciones.beni.gob.bo:8081/app/iKW9AMGcfqiXRIOp5S5jkICZZEOTTwcDEGSq1OX9XqByciFK1JODFBICAQpjocbr...
+2026-06-05 18:04:32 [ERROR] WebSocket error: [Errno 11001] getaddrinfo failed
+2026-06-05 18:04:32 [ERROR] [Errno 11001] getaddrinfo failed - goodbye
+2026-06-05 18:04:32 [INFO] WebSocket desconectado (código None)
+2026-06-05 18:04:32 [INFO] Reintentando conexión en 10 segundos...
+2026-06-05 18:04:42 [INFO] Conectando a ws://notificaciones.beni.gob.bo:8081/app/iKW9AMGcfqiXRIOp5S5jkICZZEOTTwcDEGSq1OX9XqByciFK1JODFBICAQpjocbr...
+2026-06-05 18:04:43 [INFO] Websocket connected
+2026-06-05 18:04:43 [INFO] WebSocket conectado
+2026-06-05 18:04:43 [INFO] Suscrito al canal 'mensajes'
+2026-06-05 18:04:43 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 18:04:53 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 18:05:10 [INFO] Mensaje recibido: Reunion
+2026-06-05 18:05:10 [INFO] Ventana creada: Reunion
+2026-06-05 18:05:10 [INFO] Confirmación enviada: mensaje #15 — recibido
+2026-06-05 18:05:24 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 18:05:55 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 18:06:26 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 18:06:57 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 18:07:28 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 18:07:59 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 18:08:30 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 18:08:50 [INFO] Mensaje recibido: SOLICITUD DE RECURSOS ADICIONALES, PARA LA CANCELACION DE SALDOS PARA PAGO DE MOTOCICLETAS
+2026-06-05 18:08:50 [INFO] Ventana creada: SOLICITUD DE RECURSOS ADICIONALES, PARA LA CANCELACION DE SALDOS PARA PAGO DE MOTOCICLETAS
+2026-06-05 18:08:51 [INFO] Confirmación enviada: mensaje #16 — recibido
+2026-06-05 18:09:01 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 18:09:32 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 18:10:03 [INFO] Registrado en servidor: PC (192.168.1.9)
+2026-06-05 18:10:34 [INFO] Registrado en servidor: PC (192.168.1.9)

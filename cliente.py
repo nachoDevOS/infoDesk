@@ -165,8 +165,8 @@ def _mostrar_setup_inicial():
                        if entry.get() == placeholder else None)
         return var, entry
 
-    ip_var,      ip_entry      = fila(0, 'Servidor (IP o dominio):')
-    puerto_var,  puerto_entry  = fila(1, 'Puerto de Laravel:',  _API_PORT)
+    ip_var,      ip_entry      = fila(0, 'IP o dominio de infoAdmin:')
+    puerto_var,  puerto_entry  = fila(1, 'Puerto infoAdmin:',   _API_PORT)
     reverb_var,  reverb_entry  = fila(2, 'Puerto de Reverb:',   _SERVIDOR_PORT)
     nombre_var,  nombre_entry  = fila(3, 'Nombre de esta PC:',  socket.gethostname())
     ip_entry.focus()

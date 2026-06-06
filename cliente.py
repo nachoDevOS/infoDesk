@@ -129,13 +129,13 @@ def _mostrar_setup_inicial():
 
     root_setup = tk.Tk()
     root_setup.title('infoDesk — Configuración inicial')
-    root_setup.geometry('440x380')
+    root_setup.geometry('560x420')
     root_setup.resizable(False, False)
     root_setup.configure(bg='#FFFFFF')
     root_setup.update_idletasks()
     sw = root_setup.winfo_screenwidth()
     sh = root_setup.winfo_screenheight()
-    root_setup.geometry(f'440x380+{(sw-440)//2}+{(sh-380)//2}')
+    root_setup.geometry(f'560x420+{(sw-560)//2}+{(sh-420)//2}')
     root_setup.attributes('-topmost', True)
     root_setup.protocol('WM_DELETE_WINDOW', lambda: None)  # No se puede cerrar sin guardar
 

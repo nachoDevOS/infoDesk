@@ -238,8 +238,7 @@ def registrar_pc():
         ip = socket.gethostbyname(socket.gethostname())
         requests.post(
             f"{API_URL}/api/registro",
-            json={'nombre': PC_NOMBRE, 'ip': ip,
-                  'grupo': _leer_campo_pc(CONFIG_PATH, 'grupo')},
+            json={'nombre': PC_NOMBRE, 'ip': ip},
             headers=_api_headers(),
             timeout=5,
         )
@@ -293,14 +292,6 @@ def on_message(ws, message):
         elif evento == 'mensaje.enviado':
             raw   = payload.get('data', '{}')
             datos = json.loads(raw) if isinstance(raw, str) else raw
-
-            # Filtrar por grupo destino
-            grupo_destino = datos.get('grupo_destino')
-            if grupo_destino:
-                pc_grupo = _leer_campo_pc(CONFIG_PATH, 'grupo')
-                if pc_grupo != grupo_destino:
-                    log.info(f"Mensaje ignorado (grupo {grupo_destino}, esta PC: '{pc_grupo}')")
-                    return
 
             log.info(f"Mensaje recibido: {datos.get('titulo', '')}")
             _ultimo_mensaje = datos
